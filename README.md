@@ -1,17 +1,18 @@
 # Netshoes-Gist-Challenge
 
-#Nesse projeto utilizei as seguintes tecnologia:
+● Nesse projeto utilizei as seguintes tecnologia:
 
-*MVP
 
-*Picasso
+• MVP
 
-*Retrofit
+• Picasso
 
-*RXJava
+• Retrofit
 
-*OrmLite Sqlite
+• RXJava
 
-*Kotlin
+• OrmLite Sqlite
 
-*android-extencions
+• Kotlin
+
+• android-extencions
